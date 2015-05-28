@@ -11,3 +11,36 @@
 	margin-left: 15px;
 	font-size: 1.5rem;
 }
+
+.content_wrapper {
+	padding: 20px;
+}
+
+.content_wrapper .collapsible-body {
+	background-color: #fff;
+}
+
+.content_wrapper .collapsible-body ul {
+	padding:20px;
+}
+
+.content_wrapper .collapsible-body ul li {
+	margin-bottom: 10px;
+}
+
+.content_container {
+	width: 90%;
+	margin: auto;
+}
+
+.content_container h2 {
+	font-size: 2.56rem;
+}
+
+#defination .btn-large {
+	margin-bottom: 20px;
+}
+
+#checkvoterlist, #footer {
+	text-align: center;
+}
