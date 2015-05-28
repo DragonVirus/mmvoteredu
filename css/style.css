@@ -1,0 +1,13 @@
+/* Typography */
+.title {
+	font-family: 'Roboto Condensed', sans-serif;;
+}
+
+.light {
+	font-weight: light;
+}
+
+.brand-logo {
+	margin-left: 15px;
+	font-size: 1.5rem;
+}
