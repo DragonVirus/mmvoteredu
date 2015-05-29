@@ -1,4 +1,7 @@
 /* Typography */
+body {
+	font-family:'Ours-Unicode';	
+}
 .title {
 	font-family: 'Roboto Condensed', sans-serif;;
 }
@@ -22,9 +25,12 @@
 
 .content_wrapper .collapsible-body ul {
 	padding:20px;
+	padding: 1rem;
+	margin-left: 5rem;
 }
 
 .content_wrapper .collapsible-body ul li {
+	list-style-type: disc;
 	margin-bottom: 10px;
 }
 
