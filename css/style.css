@@ -24,7 +24,6 @@ body {
 }
 
 .content_wrapper .collapsible-body ul {
-	padding:20px;
 	padding: 1rem;
 	margin-left: 5rem;
 }
@@ -45,6 +44,14 @@ body {
 
 #defination .btn-large {
 	margin-bottom: 20px;
+}
+
+#infographics, #infographic-credit {
+	text-align:center;
+}
+
+#infographics img {
+	margin-bottom: 15px;
 }
 
 #checkvoterlist, #footer {
